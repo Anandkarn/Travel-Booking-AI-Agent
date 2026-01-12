@@ -1,0 +1,17 @@
+{
+  "Goa": {
+    "Day 1": "Arrival, beach visit, sunset cruise",
+    "Day 2": "Water sports, local market visit",
+    "Day 3": "Churches, leisure time, departure"
+  },
+  "Manali": {
+    "Day 1": "Arrival, local sightseeing",
+    "Day 2": "Solang Valley, adventure sports",
+    "Day 3": "Rohtang Pass, departure"
+  },
+  "Jaipur": {
+    "Day 1": "City Palace, Jantar Mantar",
+    "Day 2": "Amber Fort, Hawa Mahal",
+    "Day 3": "Local shopping, departure"
+  }
+}
