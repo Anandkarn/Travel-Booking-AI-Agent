@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Goa",
+    "type": "Beach",
+    "budget": "Medium",
+    "best_time": "October to March"
+  },
+  {
+    "name": "Manali",
+    "type": "Hill Station",
+    "budget": "Low",
+    "best_time": "December to February"
+  },
+  {
+    "name": "Jaipur",
+    "type": "Heritage",
+    "budget": "Low",
+    "best_time": "November to February"
+  }
+]
